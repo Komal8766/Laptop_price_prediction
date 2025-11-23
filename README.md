@@ -35,8 +35,7 @@ A machine learning model is trained to understand how these specs influence the 
 │
 ├── app/
 │   ├── app.py
-│   └── templates/
-│       └── index.html
+│   └── streamlit
 │
 └── README.md
 
