@@ -118,15 +118,12 @@ jupyter notebook
 
 python app/app.py
 
-Open browser → http://127.0.0.1:5000/
-
 
 🎯 Key Insights
 	•	Processor, RAM, and GPU significantly impact price
 	•	SSD storage has higher effect than HDD
 	•	Premium brands show higher baseline prices
 	•	Lightweight laptops are priced higher
-
 
 
 👨‍💻 Future Improvements
